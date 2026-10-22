@@ -85,7 +85,7 @@ The completed electronic system was assembled and integrated into the HIFU devic
 
 <p align="center">
   <a href="https://youtube.com/shorts/ZNVhH4hBH6o?feature=share">
-    <img src="hmi/images/hmi-operational-screen.png" alt="Watch the operational HIFU device demonstration" width="320">
+    <img src="hmi/images/youtube-tumbnail.png" alt="Watch the operational HIFU device demonstration" width="320">
   </a>
 </p>
 
