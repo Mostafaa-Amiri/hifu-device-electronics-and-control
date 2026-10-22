@@ -81,7 +81,7 @@ The HMI and firmware were developed together to support communication between op
 
 ## Integrated Device and Demonstration
 
-The completed electronic system was assembled and integrated into the HIFU device. The video below documents **the developed device operating with its touchscreen interface**, demonstrating the assembled prototype rather than making claims about clinical outcomes.
+The completed electronic system was assembled and integrated into the HIFU device. The video below documents the developed device operating and demonstrating the assembled prototype.
 
 <p align="center">
   <a href="https://youtube.com/shorts/ZNVhH4hBH6o?feature=share">
@@ -110,8 +110,6 @@ The completed electronic system was assembled and integrated into the HIFU devic
 | **[Embedded Firmware](firmware/README.md)** | STM32 C source code, CubeMX configuration, Keil project, and required HAL/CMSIS components. |
 | **[HMI Development](hmi/README.md)** | DWIN DGUS interface design, touchscreen integration, and development screenshots. |
 | **[Results and Media](results-and-media/README.md)** | Operational device demonstration and photographs of the integrated system. |
-
-The repository provides **visual documentation of the PCB and HMI designs**. Native editable schematic/PCB files and DWIN HMI project files are not distributed.
 
 ---
 

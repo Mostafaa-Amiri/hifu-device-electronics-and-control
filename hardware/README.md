@@ -32,8 +32,6 @@ The electronic hardware uses **two interconnected circuit boards in a stacked as
 
 ![Assembled EMI/EMC test board](images/emi-emc-test-board-assembled.jpg)
 
-This separate prototype is documented as part of the electronic development and investigation process. The photographs do not constitute a formal EMC compliance test report.
-
 ## Related Documentation
 
 [Project overview](../README.md) · [STM32 firmware](../firmware/README.md) · [HMI development](../hmi/README.md)
