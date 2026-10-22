@@ -1,0 +1,22 @@
+# Keil/MDK generated objects and build outputs
+**/*.o
+**/*.d
+**/*.crf
+**/*.axf
+**/*.hex
+**/*.bin
+**/*.map
+**/*.lnp
+**/*.dep
+**/*.lst
+**/*.build_log.htm
+**/*.uvguix.*
+**/*.uvoptx
+**/DebugConfig/
+
+# Editors, OS and temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.log

@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If this project is discussed in research, please cite the repository and identify the author."
+type: software
+title: "HIFU Device — Electronics, Firmware and HMI Development"
+authors:
+  - family-names: "Amiri"
+    given-names: "Mostafa"
+abstract: "Engineering portfolio documenting HIFU device electronics redesign, STM32F103 firmware development, and touchscreen HMI integration."
