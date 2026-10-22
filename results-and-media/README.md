@@ -11,7 +11,7 @@ This section presents visual documentation of the developed HIFU device, includi
 The linked video shows the **developed device in operation**, including the integrated touchscreen interface. It documents the engineering implementation, not clinical treatment effectiveness or regulatory approval.
 
 <p align="center">
-  <a href="https://youtube.com/shorts/ZNVhH4hBH6o?feature=share"><img src="../hmi/images/hmi-operational-screen.png" alt="Watch the HIFU device working demonstration" width="320"></a>
+  <a href="https://youtube.com/shorts/ZNVhH4hBH6o?feature=share"><img src="../hmi/images/youtube-tumbnail.png" alt="Watch the HIFU device working demonstration" width="320"></a>
 </p>
 
 **[Watch the HIFU device demonstration on YouTube](https://youtube.com/shorts/ZNVhH4hBH6o?feature=share)**
